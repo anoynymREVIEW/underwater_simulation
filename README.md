@@ -135,8 +135,5 @@ Please see the [Pix2Pix_GAN](./Pix2Pix_GAN/README.md) directory of this reposito
 ## CycleGAN 
 Please see the [CycleGAN](./CycleGAN/README.md) directory of this repository for details on how to train and evaluate our method.
 
-## BicycleGAN 
-Please see the [BicycleGAN](./BicycleGAN/README.md) directory of this repository for details on how to train and evaluate our method.
-
 ## DRIT 
 Please see the [DRIT](./DRIT/README.md) directory of this repository for details on how to train and evaluate our method.
